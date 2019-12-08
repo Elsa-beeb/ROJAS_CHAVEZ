@@ -13,3 +13,5 @@ cantidad=(int(os.sys.argv[2]))
 #mostrar "ganaste una manzana confitada"
 if(cantidad>4):
     print(nombre,"ganaste una manzana confitada")
+else:
+    print(nombre,"gracias por su compra")
