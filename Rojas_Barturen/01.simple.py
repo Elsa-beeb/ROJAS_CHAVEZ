@@ -1,6 +1,6 @@
 #programa ganar tikets del cine
 import os
-#declara
+#declarar
 nomnbre=""
 numero_tikets=0
 
