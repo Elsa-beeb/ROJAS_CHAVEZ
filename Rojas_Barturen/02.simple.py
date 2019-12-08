@@ -1,6 +1,4 @@
 #programa productos adicionales
-#declarar
-import os
 import os
 #declara
 nomnbre=""
