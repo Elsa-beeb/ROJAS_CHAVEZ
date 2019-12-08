@@ -1,4 +1,5 @@
-#programa ganar tikets del cine
+#programa productos adicionales
+import os
 import os
 #declara
 nomnbre=""
@@ -8,10 +9,10 @@ cantidad=0
 #Input via os
 nombre=os.sys.argv[1]
 producto=os.sys.argv[2]
-cantidad=int(os.sys.argv[3])
+cantidad=(int(os.sys.argv[3]))
 
 #prosecing
-#si el numero de producto supera a 50
+#si el numero de producto supera a 10
 #mostrar "ganaste un producto adicional"
-if(producto>50):
+if(cantidad>10):
     print(nombre,"ganaste un producto adicional")
