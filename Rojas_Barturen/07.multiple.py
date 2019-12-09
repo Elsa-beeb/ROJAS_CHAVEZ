@@ -14,5 +14,5 @@ promedio_ponderado=(float(os.sys.argv[2]))
 if(promedio_ponderado>16):
     print(nombre,"ganaste una beca")
 if(promedio_ponderado<=16):
-    print(nombre,"ganaste una vacante para inscribirte a un curso a alegir")
+    print(nombre,"ganaste vacante para matricularte en un curso a elegir")
 
