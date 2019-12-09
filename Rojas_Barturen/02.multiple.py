@@ -18,3 +18,4 @@ if(cantidad>10):
     print(nombre,"ganaste un producto adicional")
 if(cantidad<=10):
     print(nombre,"ganaste una deliciosa galleta")
+
