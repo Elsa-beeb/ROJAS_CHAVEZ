@@ -8,11 +8,11 @@ numero_tikets=0
 nombre=os.sys.argv[1]
 numero_tikets=int(os.sys.argv[2])
 
-#prosecing
+#processing
 #si el numero de tikets supera a 50
 #mostrar "ganaste una entrada adicional"
 if(numero_tikets>50):
     print(nombre,"ganaste una entrada adicional")
 if(numero_tikets<=50):
-    print(nombre,"ganaste un baso de bebida")
+    print(nombre,"ganaste un vaso de bebida")
 
